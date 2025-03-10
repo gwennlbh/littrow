@@ -1,0 +1,24 @@
+{
+  "name": "littrow",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gwennlbh/littrow"
+  },
+  "author": "Gwenn Le Bihan",
+  "license": "MIT",
+  "type": "module",
+  "packageManager": "pnpm@8.6.7",
+  "files": [
+    "src",
+    "build"
+  ],
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "arktype": "^2.1.9",
+    "idb": "^8.0.2",
+    "nanoid": "^5.1.3"
+  }
+}
